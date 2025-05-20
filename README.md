@@ -4,11 +4,11 @@ A minimalist, from-scratch implementation of Linear Regression in Python, design
 
 
 * Pure Python, no external machine learning libraries required.
-* Used 2 datasets and 2 notebooks separately.
+* Used a test data to build the regrerssor and the coeficients.
 * R2 error checker.
-* Cross check with Scikit learn Models
+* Cross check with Scikit learn Model
 
 ## Results
 
 Not so disappointing
- - R2 score =  0.872329 for Medal_Regressor
+ - R2 score =  0.872329
